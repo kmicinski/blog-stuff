@@ -98,7 +98,7 @@
 ; 
 ; I'm not releasing the church encoder as it's a project for my
 ; course. If you would like me to church encode a small term for you
-; too test out the interpreter, feel free to ask.
+; to test out the interpreter, feel free to ask.
 
 ; Read in the example
 (define example-input (read (open-input-file "big-loop.scm")))
